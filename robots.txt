@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://myai-businesses.netlify.app/sitemap.xml
+Sitemap: https://vitalibraude.github.io/myai-businesses/sitemap.xml
