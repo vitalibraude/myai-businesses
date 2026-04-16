@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vitalibraude.github.io/myai-businesses/sitemap.xml
+Sitemap: https://businesses.aoeua.com/sitemap.xml
