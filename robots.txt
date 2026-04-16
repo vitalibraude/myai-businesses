@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://myai-businesses.netlify.app/sitemap.xml
